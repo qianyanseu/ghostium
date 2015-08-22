@@ -9,7 +9,8 @@ html {
 }
 
 body {
-  font: 400 20px/1.6 $text-font-family;
+  font: 400 1em $text-font-family;
+  line-height: 1.5em;
   background: $background-color;
   color: $text-color;
 
